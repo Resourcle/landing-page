@@ -1,0 +1,1 @@
+This project is a simple landing page created using HTML and CSS. It includes various sections such as a header, welcome section, random information section, quote section, and a call-to-action section. The purpose of this project is to practice and demonstrate basic web development skills.
